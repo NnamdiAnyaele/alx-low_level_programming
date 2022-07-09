@@ -3,6 +3,8 @@
 /*
  * main - Entry point
  *
+ * Description: use prinf to print strings
+ *
  * Return: Always 0 (Success)
  */
 int main(void)
