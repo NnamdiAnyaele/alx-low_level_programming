@@ -1,9 +1,9 @@
 #include <stdio.h>
 
-/*
+/**
  * main - Entry point
  *
- * Description: 'use printf to print strings'
+ * Description: prints characters
  *
  * Return: Always 0 (Success)
  */
