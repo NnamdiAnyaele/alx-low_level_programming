@@ -3,7 +3,7 @@
 /*
  * main - Entry point
  *
- * Description: use prinf to print strings
+ * Description: 'use printf to print strings'
  *
  * Return: Always 0 (Success)
  */
