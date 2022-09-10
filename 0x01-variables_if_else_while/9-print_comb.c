@@ -28,7 +28,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			d++
+			d++;
 		}
 		c++;
 	}
