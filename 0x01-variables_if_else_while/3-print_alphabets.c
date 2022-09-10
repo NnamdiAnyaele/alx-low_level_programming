@@ -23,7 +23,7 @@ int main(void)
 	while (c <= 'A')
 	{
 		putchar(c);
-		c++
+		c++;
 	}
 
 	putchar('\n');
