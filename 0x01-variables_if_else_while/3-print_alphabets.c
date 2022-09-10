@@ -3,20 +3,29 @@
 /**
  * main - Entry point
  *
- * Description: Print all the alphabet in lowercase followed by new line
+ * Description: Print all the alphabet in lowercase
+ * then in uppercase followed by new line
  *
  * Return: Always 0 (Success)
  */
 int main(void)
 {
-	char c = "a";
+	char c = 'a';
 
-	while (c <= z)
+	while (c <= 'z')
 	{
 		putchar(c);
 		c++;
 	}
 
-	putchar("\n");
+	c = 'A';
+
+	while (c <= 'A')
+	{
+		putchar(c);
+		c++
+	}
+
+	putchar('\n');
 	return (0);
 }
